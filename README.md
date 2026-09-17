@@ -57,8 +57,8 @@ Control 是一个**完全免费、开源、全离线**的自律管理 App。它�
 环境要求：Flutter 3.44+、JDK 17+、Android SDK。
 
 ```bash
-git clone <this-repo-url>
-cd control_app
+git clone https://github.com/jiexia-QAQ/Control.git
+cd Control
 
 flutter pub get
 flutter build apk --release
