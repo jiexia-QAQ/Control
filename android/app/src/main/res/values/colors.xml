@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Control 启动背景色（浅色模式）：米白 -->
+    <color name="launch_background">#F7F6F4</color>
+</resources>

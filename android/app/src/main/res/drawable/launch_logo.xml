@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 原生启动 Logo：重叠圆环（无文字，与图标呼应） -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <path
+        android:pathData="M30,34 A13.5,13.5 0 1,0 57,34 A13.5,13.5 0 1,0 30,34"
+        android:strokeColor="#7C8B9D"
+        android:strokeWidth="4"
+        android:fillColor="#00000000"/>
+    <path
+        android:pathData="M50,48 A13.5,13.5 0 1,0 77,48 A13.5,13.5 0 1,0 50,48"
+        android:strokeColor="#9CAF9F"
+        android:strokeWidth="4"
+        android:fillColor="#00000000"/>
+    <path
+        android:pathData="M38,55 A13.5,13.5 0 1,0 65,55 A13.5,13.5 0 1,0 38,55"
+        android:strokeColor="#E8936B"
+        android:strokeWidth="4"
+        android:fillColor="#00000000"/>
+</vector>
